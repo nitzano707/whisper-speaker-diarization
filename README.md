@@ -1,8 +1,8 @@
 ---
 title: Whisper Speaker Diarization
-emoji: 👁
-colorFrom: gray
-colorTo: pink
+emoji: 🗣️
+colorFrom: yellow
+colorTo: red
 sdk: static
 pinned: false
 ---
